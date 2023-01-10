@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ali Bayat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hi, I'm Alireza Farokhi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p>For over 10 years my passion has been creating software applications for small to enterprise-sized companies.</p>
 
