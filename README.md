@@ -13,7 +13,7 @@
 </p>
 
 - 🔭 I’m currently working on a microservice project.
-- 🌱 I’m currently learning Microsoft Azure Dvops and Docker
+- 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate on: **.NET projects**
 - 💬 Ask me about: `.NET`, `Clean Architecture`,`Onion Architecture`,`TDD`,`Distributed Systems`, `Microservices`, `DDD`, `CQRS`,
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alirezafarokhi/), [Medium](https://alirezafarokhi.medium.com/) and [Email](arffarokhi166@gmail.com) 
